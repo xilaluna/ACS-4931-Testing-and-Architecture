@@ -18,7 +18,7 @@ In this series of exercises, we practice various refactoring techniques. You may
 
   - Study the file [make_shirazi_salad.py](make_shirazi_salad.py) Use 'consolidate duplicate conditional fragments' technique to improve readability of the code.
 
-- [ ] Exercise 15: 'Remove Control Flag' Technique
+- [x] Exercise 15: 'Remove Control Flag' Technique
 
   - Study the file [find_food.py](find_food.py). Use 'remove control flag' technique to improve readability of the code.
 
