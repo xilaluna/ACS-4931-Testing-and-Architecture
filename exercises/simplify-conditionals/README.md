@@ -26,7 +26,7 @@ In this series of exercises, we practice various refactoring techniques. You may
 
   - Study the file [extract_position.py](extract_position.py). Use 'Replace Nested Conditional with Guard Clauses' technique to improve readability of the code.
 
-- [ ] Exercise 17: 'Decompose Conditional' Technique
+- [x] Exercise 17: 'Decompose Conditional' Technique
 
   - Study [check_cholesterol_levels.py](check_cholesterol_levels.py) file. Use 'decompose conditional' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
 
