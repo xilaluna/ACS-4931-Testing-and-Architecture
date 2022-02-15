@@ -22,7 +22,7 @@ In this series of exercises, we practice various refactoring techniques. You may
 
   - Study the file [find_food.py](find_food.py). Use 'remove control flag' technique to improve readability of the code.
 
-- [ ] Exercise 16: 'Replace Nested Conditional with Guard Clauses' Technique
+- [x] Exercise 16: 'Replace Nested Conditional with Guard Clauses' Technique
 
   - Study the file [extract_position.py](extract_position.py). Use 'Replace Nested Conditional with Guard Clauses' technique to improve readability of the code.
 
