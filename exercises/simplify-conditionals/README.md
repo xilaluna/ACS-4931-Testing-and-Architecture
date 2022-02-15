@@ -40,7 +40,7 @@ In this series of exercises, we practice various refactoring techniques. You may
   - [x] Part 2: Refactor [backdoor_method.py](backdoor_method.py)
   - Use 'remove control flag' technique in combination with any other refactoring technique you've learned to improve readability of the code.
 
-- [ ] Exercise 20: 'Replace Nested Conditional With Guard Clauses' Technique
+- [x] Exercise 20: 'Replace Nested Conditional With Guard Clauses' Technique
   - Study [calc_adjusted_capital.py](calc_adjusted_capital.py). Use 'replace nested conditional with guarded clauses' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
 
 # Where to Submit Your Answer
