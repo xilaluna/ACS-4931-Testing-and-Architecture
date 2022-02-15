@@ -14,7 +14,7 @@ In this series of exercises, we practice various refactoring techniques. You may
 
   - Study the file [mix_ice_cream.py](mix_ice_cream.py). Use 'consolidate conditional expression' technique to improve readability of the code.
 
-- [ ] Exercise 14: 'Consolidate Duplicate Conditional Fragments' Technique
+- [x] Exercise 14: 'Consolidate Duplicate Conditional Fragments' Technique
 
   - Study the file [make_shirazi_salad.py](make_shirazi_salad.py) Use 'consolidate duplicate conditional fragments' technique to improve readability of the code.
 
