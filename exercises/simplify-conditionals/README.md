@@ -10,7 +10,7 @@ In this series of exercises, we practice various refactoring techniques. You may
 
   - Study the file [detect_toxins.py](detect_toxins.py). Use 'decompose conditional' technique to improve readability of the code.
 
-- [ ] Exercise 13: 'Consolidate Conditional Expression' Technique
+- [x] Exercise 13: 'Consolidate Conditional Expression' Technique
 
   - Study the file [mix_ice_cream.py](mix_ice_cream.py). Use 'consolidate conditional expression' technique to improve readability of the code.
 
