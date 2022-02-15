@@ -30,7 +30,7 @@ In this series of exercises, we practice various refactoring techniques. You may
 
   - Study [check_cholesterol_levels.py](check_cholesterol_levels.py) file. Use 'decompose conditional' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
 
-- [ ] Exercise 18: 'Consolidate Duplicate Conditional Fragments' Technique
+- [x] Exercise 18: 'Consolidate Duplicate Conditional Fragments' Technique
 
   - Study [change_gear.py](change_gear.py) file. Use 'consolidate duplicate conditional fragments' Technique to improve the code.
 
