@@ -10,7 +10,7 @@ In this series of exercises, we practice various refactoring techniques. You may
 - [x] Exercise 22: 'Extract Class' Technique
 - Study [recipes.py](recipes.py). Use 'extract class' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
 
-- [ ] Exercise 23: 'Extract Class' Technique
+- [x] Exercise 23: 'Extract Class' Technique
 - Study [actors.py](actors.py). Use 'extract class' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
 
 - [ ] Exercise 24: 'Extract Class' Technique
