@@ -7,7 +7,7 @@ In this series of exercises, we practice various refactoring techniques. You may
 - [x] Exercise 21: 'Move Attribute' Technique
 - Study [car_wheels.py](car_wheels.py). Use 'move attribute' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
 
-- [ ] Exercise 22: 'Extract Class' Technique
+- [x] Exercise 22: 'Extract Class' Technique
 - Study [recipes.py](recipes.py). Use 'extract class' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
 
 - [ ] Exercise 23: 'Extract Class' Technique
