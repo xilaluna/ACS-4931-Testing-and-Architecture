@@ -16,7 +16,7 @@ In this series of exercises, we practice various refactoring techniques. You may
 - [x] Exercise 24: 'Extract Class' Technique
 - Study [steaks_revisited.py](steaks_revisited.py). Use 'extract class' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
 
-- [ ] Exercise 25: 'Replace Magic Number with Symbolic Constant' Technique
+- [x] Exercise 25: 'Replace Magic Number with Symbolic Constant' Technique
 - Study [magic_numbers.py](magic_numbers.py). Use 'replace magic number with symbolic constant' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
 
 - [ ] Exercise 26: 'Extract Superclass' Technique
