@@ -10,9 +10,9 @@ This README has a walkthrough for setting up pytest below. Please follow along w
 - [x] Exercise 2: Calculate Grades [extract_position.py](extract_position.py)
   - [x] Implement
   - [x] Write tests
-- [ ] Exercise 3: Extract Position [calculate_grades.py](calculate_grades.py)
-  - [ ] Implement
-  - [ ] Write tests
+- [x] Exercise 3: Extract Position [calculate_grades.py](calculate_grades.py)
+  - [x] Implement
+  - [x] Write tests
 
 # Table of Contents
 
