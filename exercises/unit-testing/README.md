@@ -7,9 +7,9 @@ This README has a walkthrough for setting up pytest below. Please follow along w
 - [x] Exercise 1: Carbon 14 Dating [carbon_dating.py](carbon_dating.py)
   - [x] Implement
   - [x] Write tests
-- [ ] Exercise 2: Calculate Grades [extract_position.py](extract_position.py)
-  - [ ] Implement
-  - [ ] Write tests
+- [x] Exercise 2: Calculate Grades [extract_position.py](extract_position.py)
+  - [x] Implement
+  - [x] Write tests
 - [ ] Exercise 3: Extract Position [calculate_grades.py](calculate_grades.py)
   - [ ] Implement
   - [ ] Write tests
@@ -39,7 +39,7 @@ pytest works by finding test files and then running test classes and test functi
 Enter the following command in your terminal: `$ pip install pytest`
 
 **Note:** If you get an the following warning:  
- ` WARNING: The scripts py.test and pytest are installed in '/home/kami/.local/bin' which is not on PATH. `
+ `WARNING: The scripts py.test and pytest are installed in '/home/kami/.local/bin' which is not on PATH.`
 
 Add the installation path (`/home/kami/.local/bin)` to your `PATH`, by running the following command: `$ export PATH="$HOME/.local/bin:$PATH"`
 

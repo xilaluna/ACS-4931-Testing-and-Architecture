@@ -15,9 +15,9 @@ def test_age_carbon_14_dating():
     ratio = 0.35
     exprected_result = 8680.34
 
-    if ratio <= 0:
-        with pytest.raises(TypeError):
-            get_age_carbon_14_dating(ratio)
+    # if ratio <= 0:
+    #     with pytest.raises(TypeError):
+    #         get_age_carbon_14_dating(ratio)
 
     assert math.isclose(get_age_carbon_14_dating(ratio),
                         exprected_result, abs_tol=0.5)

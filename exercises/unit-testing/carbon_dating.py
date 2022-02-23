@@ -16,8 +16,8 @@ def get_age_carbon_14_dating(carbon_14_ratio):
     in the sample conpared to the amount in living
     tissue (unitless).
     """
-    if carbon_14_ratio >= 0:
-        raise TypeError(
-            "number is not supported by the mathematical operation")
+    # if carbon_14_ratio >= 0:
+    #     raise TypeError(
+    #         "number is not supported by the mathematical operation")
 
     return math.log(carbon_14_ratio) / DECAY_CONSTANT * T_HALF
